@@ -10,6 +10,7 @@ This is a sample project that lets you try out either option in a few easy steps
 
 ## Setting up the development container
 
+
 ### GitHub Codespaces
 Follow these steps to open this sample in a Codespace:
 1. Click the **Code** drop-down menu.
